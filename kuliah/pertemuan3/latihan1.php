@@ -13,6 +13,4 @@ echo "Jum'at"
 echo "<br>";
 echo '"Sandhika" kuliah hari ' . "Jum'at";
 echo "<br>";
-echo "/"Sandhika ";
-
-?>
+echo "\"Desi\" kuliah hari Jum'at";
